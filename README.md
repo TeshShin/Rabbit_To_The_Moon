@@ -1,8 +1,8 @@
 # Rabbit_To_The_Moon
 Game made with Unity Engine (2019.11)
 <hr/>
-[Download address]
-https://drive.google.com/file/d/12kCeNzvUhqkc-Uh5M7xCmTEjp8RBNFR7/view?usp=sharing
+
+[Download address](https://drive.google.com/file/d/12kCeNzvUhqkc-Uh5M7xCmTEjp8RBNFR7/view?usp=sharing)
 
 <hr/>
 <주인공 설정 및 줄거리>
@@ -18,7 +18,8 @@ https://drive.google.com/file/d/12kCeNzvUhqkc-Uh5M7xCmTEjp8RBNFR7/view?usp=shari
 <hr/>
 배경 설정
 <hr/>
-#scene1. 인간 토끼가 인간 말을 하고, 토끼 말을 못 알아듣는다. 
+
+### scene1. 인간 토끼가 인간 말을 하고, 토끼 말을 못 알아듣는다. 
 
 인간 토끼 : 토끼들아 안녕??
 
@@ -27,7 +28,8 @@ https://drive.google.com/file/d/12kCeNzvUhqkc-Uh5M7xCmTEjp8RBNFR7/view?usp=shari
 인간 토끼 : 무슨 소리지..? 못 알아듣겠어!
 
 <hr/>
-#scene2. 사냥꾼(인간)이 인간 토끼를 외형 때문에 무서워하고 경계한다.
+
+### scene2. 사냥꾼(인간)이 인간 토끼를 외형 때문에 무서워하고 경계한다.
 
 인간 토끼 : 엇 인간이다!
 
@@ -48,7 +50,8 @@ https://drive.google.com/file/d/12kCeNzvUhqkc-Uh5M7xCmTEjp8RBNFR7/view?usp=shari
 “어어...?! 나랑 똑같이 생긴 토끼 인간이 있는 건가?”
 
 <hr/>
-#scene3. 인간 토끼가 달로 가기 위한 게임을 시작함.
+
+### scene3. 인간 토끼가 달로 가기 위한 게임을 시작함.
 
 
 [미니 게임 스토리 설명]
