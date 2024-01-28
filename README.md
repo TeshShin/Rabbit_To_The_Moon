@@ -2,7 +2,7 @@
 Game made with Unity Engine (2019.11)
 
 # Download
-Release에서 가능합니다.
+Releases에서 가능합니다.
 
 <hr/>
 
